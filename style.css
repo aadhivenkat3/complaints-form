@@ -1,0 +1,12 @@
+button{
+	background-color:red;
+	color:white;
+	border:none;
+	cursor:pointer;
+	padding:5px 5px;
+	padding-left:15px;
+	padding-right:15px;
+}
+input[type=text],input[type=email],input[type=tel]{
+	height:25px;
+}
